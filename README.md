@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-👋 Hi, I'm Artem, a student from Ukraine 🇺🇦
+👋 Hi, I'm Artem, a student from Ukraine 08.10.2011 🇺🇦
 🐍 Currently learning Python and building my programming skills.
 🤖 Interested in Artificial Intelligence and working toward becoming an AI engineer.
 🧮 I enjoy mathematics, physics, problem-solving, and understanding how things work.
