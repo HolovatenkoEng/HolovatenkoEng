@@ -1,7 +1,6 @@
 
 
 # 💫 About Me:
-# 💫 About Me
 
 👋 Hi, I'm Artem, a student from Ukraine 🇺🇦
 🐍 Currently learning Python and building my programming skills.
