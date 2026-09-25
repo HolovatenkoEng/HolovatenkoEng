@@ -1,7 +1,27 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm Artem, a student from Ukraine 🇺🇦.<br>🐍 I'm currently learning Python and building my programming skills.<br>🤖 I'm passionate about AI and want to become an AI engineer.<br>🛠️ I enjoy building projects, solving problems, and learning how things work.<br>🚀 I'm working step by step toward becoming a great engineer.<br>
+# 💫 About Me
+
+👋 Hi, I'm Artem, a student from Ukraine 🇺🇦
+🐍 Currently learning Python and building my programming skills.
+🤖 Interested in Artificial Intelligence and working toward becoming an AI engineer.
+🧮 I enjoy mathematics, physics, problem-solving, and understanding how things work.
+🛠️ I learn by building projects and experimenting with code.
+🚀 My goal is to become a strong engineer and build technology that helps people.
+
+## 📚 Currently Learning
+
+* 🐍 Python
+* 🧮 Mathematics
+* ⚛️ Physics
+* 🇬🇧 English
+* 🤖 Artificial Intelligence
+
+## 🎯 Goal
+
+Become an AI engineer and build useful technology that can make a real difference.
+
 
 
 ## 🌐 Socials:
